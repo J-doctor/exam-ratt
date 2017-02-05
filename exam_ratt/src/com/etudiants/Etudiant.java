@@ -14,7 +14,7 @@ public class Etudiant {
 
     public Etudiant() {
         CNE="";
-        Nom="";
+        Nom="Anonyme";
         Prenom="";
         sex="";
         filiere="";
